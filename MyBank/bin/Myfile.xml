@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE college[
+<!ELEMENT college(faculty,student,staff)>
+<!ELEMENT faculty(#PCDATA)>
+<!ELEMENT student(#PCDATA)>
+<!ELEMENT staff(#PCDATA)
+]>
+<college>
+	<faculty>sd</faculty>
+	<student>df</student>
+	<staff>dv</staff>
+	
+</college>

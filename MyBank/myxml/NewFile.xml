@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE microsoft SYSTEM "mytype.dtd">
+<microsoft>
+	<emloyee>
+		<name>Arpit</name>
+		<salary>20000</salary>
+	</emloyee>
+	<emloyee>
+		<name>Rahul</name>
+		<salary>10000</salary>
+	</emloyee>
+</microsoft>			
